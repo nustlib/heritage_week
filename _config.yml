@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.lib.uidaho.edu
+url: http://dna.nust.na
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /demo
+baseurl: /heritage-week
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 
@@ -18,14 +18,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder SA
+title: Heritage Week Namibia 2020
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Heritage Week Namibia 2020 - NUST Library 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-SA is a template for creating digital collection exhibits using static web technology."  
+description: # "CollectionBuilder-SA is a template for creating digital collection exhibits using static web technology."  
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: NUST Library
 # Organization branding
 organization-name: "Digital Initiatives, University of Idaho Library"
 organization-link: https://www.lib.uidaho.edu/digital/
@@ -43,7 +43,7 @@ metadata: demo-metadata
 # page generation settings 
 # "data" value must be the name of the metadata file (other values should be not be changed)
 page_gen:
-  - data: 'demo-metadata'
+  - data: 'heritage_week'
     template: 'items'
     name: 'objectid'
     dir: 'items'
