@@ -29,8 +29,8 @@ author: NUST Library
 # Organization branding
 organization-name: "http://dna.nust.na"
 organization-link: http://www.nust.na
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-logo-banner: http://library.nust.na/sites/all/themes/pressa/logo.png
+organization-logo-nav: https://www.nust.na/sites/default/files/nust_logoANDname-DARKBACKGROUND.png
 
 ##########
 # COLLECTION SETTINGS
