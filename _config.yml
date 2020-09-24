@@ -12,13 +12,13 @@ url: http://dna.nust.na
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /heritage_week
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
+## source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Heritage Week Namibia 2020
+title: Namibia Heritage Week 2020
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Heritage Week Namibia 2020 - NUST Library 
 # description appears in meta tags and other locations
@@ -27,8 +27,8 @@ description: # "CollectionBuilder-SA is a template for creating digital collecti
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: NUST Library
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
+organization-name: "http://dna.nust.na"
+organization-link: http://www.nust.na
 organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
 organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
 
